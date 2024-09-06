@@ -28,4 +28,4 @@ Sou um dev fullstack Python com foco em Automação.
 
 ## ⭐ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chicopinheiroDEV&show_icons=true)
