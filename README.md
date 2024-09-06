@@ -1,9 +1,9 @@
 ## Hi there 👋
-## 💜 Olá, meu nome é {seu nome}!
+## 💜 Olá, meu nome é Francisco Pinheiro!
 
-Faça uma breve apresentação sobre você e a sua stack.
+Sou um dev fullstack Python com foco em Automação.
 
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
+🔭 DEsenvolvi projetos de automatização de tarefas para escritório de contabilidade.
 
 💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
 
